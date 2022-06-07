@@ -1,0 +1,2 @@
+io/github/itzmeanjan/intent/BuildConfig.java
+ io.github.itzmeanjan.intent.BuildConfig

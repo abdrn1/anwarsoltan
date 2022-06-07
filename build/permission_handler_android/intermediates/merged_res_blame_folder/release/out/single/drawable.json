@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Programming\\flutter\\anwar_alsultan\\build\\permission_handler_android\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\c1ebda589683e9beaa06b540aac78854\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Programming\\flutter\\anwar_alsultan\\build\\permission_handler_android\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\c1ebda589683e9beaa06b540aac78854\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Programming\\flutter\\anwar_alsultan\\build\\permission_handler_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\c1ebda589683e9beaa06b540aac78854\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Programming\\flutter\\anwar_alsultan\\build\\permission_handler_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\c1ebda589683e9beaa06b540aac78854\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]

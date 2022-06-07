@@ -1,0 +1,2 @@
+Compile error solution :
+    open file "build.gradle" edit line to ext.kotlin_version = '1.6.0'
